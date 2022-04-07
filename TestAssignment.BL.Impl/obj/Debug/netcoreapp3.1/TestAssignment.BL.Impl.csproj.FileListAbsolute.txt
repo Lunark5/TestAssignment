@@ -1,0 +1,13 @@
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\bin\Debug\netcoreapp3.1\TestAssignment.BL.Impl.deps.json
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\bin\Debug\netcoreapp3.1\TestAssignment.BL.Impl.dll
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\bin\Debug\netcoreapp3.1\TestAssignment.BL.Impl.pdb
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\bin\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.dll
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\bin\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.pdb
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\obj\Debug\netcoreapp3.1\TestAssignment.BL.Impl.csproj.AssemblyReference.cache
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\obj\Debug\netcoreapp3.1\TestAssignment.BL.Impl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\obj\Debug\netcoreapp3.1\TestAssignment.BL.Impl.AssemblyInfoInputs.cache
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\obj\Debug\netcoreapp3.1\TestAssignment.BL.Impl.AssemblyInfo.cs
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\obj\Debug\netcoreapp3.1\TestAssignment.BL.Impl.csproj.CoreCompileInputs.cache
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\obj\Debug\netcoreapp3.1\TestAssignment.BL.Impl.csproj.CopyComplete
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\obj\Debug\netcoreapp3.1\TestAssignment.BL.Impl.dll
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Impl\obj\Debug\netcoreapp3.1\TestAssignment.BL.Impl.pdb

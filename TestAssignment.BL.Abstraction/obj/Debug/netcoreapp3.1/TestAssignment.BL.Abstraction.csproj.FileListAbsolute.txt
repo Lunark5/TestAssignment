@@ -1,0 +1,10 @@
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Abstraction\bin\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.deps.json
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Abstraction\bin\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.dll
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Abstraction\bin\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.pdb
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Abstraction\obj\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.csproj.AssemblyReference.cache
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Abstraction\obj\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Abstraction\obj\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.AssemblyInfoInputs.cache
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Abstraction\obj\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.AssemblyInfo.cs
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Abstraction\obj\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.csproj.CoreCompileInputs.cache
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Abstraction\obj\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.dll
+D:\Programm\Codes\TestAssignment\TestAssignment.BL.Abstraction\obj\Debug\netcoreapp3.1\TestAssignment.BL.Abstraction.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestAssignment.BL.Impl/1.0.0": {
+        "dependencies": {
+          "TestAssignment.BL.Abstraction": "1.0.0"
+        },
+        "runtime": {
+          "TestAssignment.BL.Impl.dll": {}
+        }
+      },
+      "TestAssignment.BL.Abstraction/1.0.0": {
+        "runtime": {
+          "TestAssignment.BL.Abstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestAssignment.BL.Impl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestAssignment.BL.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
